@@ -1,0 +1,8 @@
+{
+    "skipLibCheck": true, // Временно отключает проверку типов в node_modules, помогает при ошибках в типах
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
